@@ -11,7 +11,7 @@ package main
 import (
 	"log"
 
-	"github.com/notutensil/ipset"
+	"github.com/cuisj/ipset"
 )
 
 func main() {
